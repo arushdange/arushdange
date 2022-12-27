@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arushdange
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning software development
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any interesting project!
 - 📫 How to reach me ... email
 
